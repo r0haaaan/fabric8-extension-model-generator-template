@@ -6,7 +6,7 @@
   <parent>
     <groupId>io.fabric8</groupId>
     <artifactId>__NAME__-extension-pom</artifactId>
-    <version>5.3-SNAPSHOT</version>
+    <version>1.0-SNAPSHOT</version>
   </parent>
 
   <artifactId>__NAME__-model</artifactId>
